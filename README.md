@@ -1,6 +1,8 @@
-# components-1
+# Ejemplo curso Udemy Vue 3
 
-This template should help get you started developing with Vue 3 in Vite.
+- [Preview page]("https://harmonious-churros-99063c.netlify.app/")
+
+Este es un ejemplo y ejercicio de como subir un commit a github al igual que modificarlo
 
 ## Recommended IDE Setup
 
