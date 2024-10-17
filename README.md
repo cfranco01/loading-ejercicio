@@ -1,6 +1,6 @@
 # Ejemplo curso Udemy Vue 3
 
-- [Preview page]("https://harmonious-churros-99063c.netlify.app/")
+- [Preview page](https://harmonious-churros-99063c.netlify.app/)
 
 Este es un ejemplo y ejercicio de como subir un commit a github al igual que modificarlo
 
